@@ -8,7 +8,7 @@ BLUE='\033[1;34m'   # Синий жирный
 NC='\033[0m'        # Сброс цвета и жирности
 
 # URL файла с подсетями
-URL="https://gist.githubusercontent.com/sngvy/07cee7ac810c9d222fbebddff8c1d1b8/raw/974d3d87f190468e134e9b56f1e0a93c7caa0fcd/blacklist.txt"
+URL="https://raw.githubusercontent.com/Puzzak01/AntiScanner/refs/heads/main/blacklist.txt"
 
 # Временный файл для хранения подсетей
 TEMP_FILE="/tmp/blacklist_subnets.txt"
